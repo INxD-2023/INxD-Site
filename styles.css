@@ -183,6 +183,14 @@ img {
 		max-width: 100%;
 	}
 
+    .deptLogo {
+        display: none;
+    }
+
+    h1 { 
+        font-size: 2rem;
+    }
+
     .portfolios {
         display: flex;
         flex-direction: column;
